@@ -1,0 +1,161 @@
+/* Menu */
+.bg-light {
+    background-color: #800000 !important;
+}
+
+body {
+    background-image: url("../images/IMG_5109.jpg");
+}
+
+
+.describe {
+    width:100%;
+    text-align:center;
+    
+}
+
+.word1 {
+    font-family: "Aguafina Script";
+    text-align:center;
+    font-size: 36px;
+    float: left;
+    width: 33%;
+}
+
+.word2 {
+    font-family: "Aguafina Script";
+    display: inline-block;
+    font-size: 36px;
+    text-align:center;
+    margin:0 auto;
+    width:33%;
+}   
+
+.word3 {
+    font-family: "Aguafina Script";
+    text-align:center;
+    font-size: 36px;
+    float: right;
+    width:30%;
+}
+
+.display-div {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+}
+
+.center-list {
+    width:50%;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f0F !important;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Aguafina Script";
+    font-weight: 800;
+}
+h2 {
+    text-align: center;
+    font-family: "Aguafina Script";
+    font-size: 14px;
+
+}
+
+ul.reviews-ul {
+    font-family: Helvetica, sans-serif !important;
+    list-style-type: none !important; 
+    padding: 8px 8px;
+}
+
+
+li.review {
+    border: 3px solid black;
+    padding: 8px 8px;
+    border-radius: 3px;
+    margin-bottom: 3px;
+
+}
+
+.about-photo {
+    width: 30%;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.revPhoto {
+    max-height: 36px;
+}
+
+
+
+.navbar-brand {
+    font-family: "Aguafina Script" !important;
+    font-weight: 500 !important;
+    color: white !important;
+}
+
+.navbarNav {
+    color: #fefefe !important;
+    font-family: Helvetica, sans-serif !important;
+}
+
+.nav-link {
+    text-align: right;
+    color: white !important;
+    font-weight: 300 !important;
+    font-family: Helvetica, sans-serif !important;
+}
+
+.sr-only{
+    color: lightgrey !important;
+}
+
+.nav-item :active {
+    color: lightgrey !important;
+    font-weight: 500 !important;
+    font-family: Helvetica, sans-serif !important;
+}
+
+.basic-text {
+    text-align: center !important;
+    font-family: Helvetica, sans-serif !important;
+}
+
+.image img {
+    width: 100% !important;
+
+}
+
+.portfolio {
+    display: grid;
+    grid-template: auto auto auto auto auto / 1fr 1fr 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    align-content: space-around;
+    padding: 10px;
+}
+
+.portbox {
+    background-color: silver !important;
+}
+
+.foot {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+footer {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}
+
