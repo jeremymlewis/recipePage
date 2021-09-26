@@ -119,14 +119,12 @@ li.ingredient {
 }
 
 .nav-link {
-    text-align: right;
     color: white !important;
     font-weight: 300;
     font-family: Helvetica, sans-serif !important;
 }
 
 .nav-link-curr {
-    text-align: right;
     color: black !important;
     font-weight: 300;
     font-family: Helvetica, sans-serif !important;
